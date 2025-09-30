@@ -1,3 +1,5 @@
 # Ignore bee data folder
 /data/bees/
+/data/MNIST_train.csv
+/data/MNIST_test.csv
 Daily Report.ipynb
