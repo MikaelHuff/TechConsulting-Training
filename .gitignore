@@ -1,5 +1,11 @@
-# Ignore bee data folder
 /data/bees/
+Daily Report.ipynb
+/data/cats_and_dogs_filtered/
+/data/cats_and_dogs_filtered.zip
 /data/MNIST_train.csv
 /data/MNIST_test.csv
-Daily Report.ipynb
+/new_env/
+/.venv/
+/Projects/LEGO/Lego_Tracking/
+/Projects/Lego/videos/
+
